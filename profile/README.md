@@ -1,12 +1,7 @@
-## Hi there 👋
+## Iris GitHub Overview 
 
-<!--
+Iris is our company’s centralized hub for software development and collaboration. 
+Within our GitHub Organization, we house all our software solutions, from cutting-edge applications to critical infrastructure code.
+Our repositories serve as the backbone of our development process, enabling seamless collaboration among authorized team members
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
