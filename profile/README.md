@@ -11,5 +11,5 @@ Our repositories serve as the backbone of our development process, enabling seam
 Iris, a company within the Kendall Group, specializing in serving customers in the manufacturing industry. 
 Our focus lies in developing cutting-edge software solutions that enhance efficiency, streamline processes, and drive innovation across manufacturing operations.
 
-To view our solutions, go to the repositories tab above.
+To view our solutions, click the Repositories tab above!
 
